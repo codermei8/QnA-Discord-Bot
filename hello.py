@@ -22,4 +22,4 @@ async def on_message(message):
     else:
         await message.channel.send("Hello!")
 
-client.run('MTA3MzgxODY5NzAxNTI1MDk4NA.G_xB2Q.KA1jHi8617RUHQSv6R6sOTWCHLL66sRTc0xMbA')
+client.run('BOT_TOKEN')
